@@ -1,0 +1,1 @@
+A community service project for Blood donation built in Django
