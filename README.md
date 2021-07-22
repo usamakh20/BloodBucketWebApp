@@ -1,1 +1,1 @@
-A community service project for Blood donation built in Django
+Django based Web App for Blood Bucket
